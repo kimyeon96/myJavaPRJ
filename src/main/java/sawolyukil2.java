@@ -9,7 +9,7 @@ public class sawolyukil2 {
             System.out.println(i + "번째입니다.");
         } */
 
-        /* int hap = 0;
+         int hap = 0;
         int i;
 
         for (i = 1; i < 11; i++) {
@@ -19,7 +19,7 @@ public class sawolyukil2 {
             System.out.println("--------------");
         }
 
-        System.out.printf("1에서 10까지의 합 : %d \n", hap); */
+        System.out.printf("1에서 10까지의 합 : %d \n", hap);
 
     /*2번째 요구사항 문제    int fac = 1;
         for(int i2 = 5; i2 > 0; i2--) {
@@ -30,7 +30,7 @@ public class sawolyukil2 {
         System.out.println("5! 값은 "+ fac); */
 
 
-        Scanner s = new Scanner(System.in);
+      /*  Scanner s = new Scanner(System.in);
 
         int hap=0;
         int i;
