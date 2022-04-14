@@ -5,8 +5,8 @@ public class Ex06_12_2 {
         int i;
         int dan;
         System.out.printf("몇단?");
-        dan = s.nextInt();
 
+        dan = s.nextInt();
         for(i = 1; i < 10; i++) {
             System.out.println(dan + "X" + i + "=" + dan*i);
         }
