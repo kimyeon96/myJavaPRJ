@@ -17,7 +17,7 @@ public class saworlyukil30406 {
             hap += i;
         }
 
-        System.out.println(num1 + "부터 " + num2 + "까지 " + num3 + "씩 증가한 합은 ");
+        System.out.println(num1 + "부터 " + num2 + "까지 " + num3 + "씩 증가한 합은 " + hap);
         // 시작값이 끝보다 큰 수가 들어오면, "시작값이 끝수보다 큽니다."
         // for문 실행 안되게....
     }
