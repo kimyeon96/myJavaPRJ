@@ -14,8 +14,7 @@ public class arraylist2 {
 
         int listSize = list.size(); //List의 데이터 수 구하기
 
-        for (int i=0; i<listSize; i++) { //일반 for문으로
-            System.out.println("이름 : " + list.get(i));
+        for (String name : list) {
         }
     }
 }
