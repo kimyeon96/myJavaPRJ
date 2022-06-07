@@ -19,5 +19,7 @@ public class quiz_test6 {
         String time = item[3].substring(1);
 
         System.out.println("time : "+ time);
+        //고등학교 수학때 배운 y=f(x),  f가 커피머신 x가 결과
+//함수는 강제로 void를 쓰지 않으면 무조건 내가 쓴 내용에 대해서 잘 나오는지 결과값을 실행함, 결과값을 나타내줌
 }
 }
