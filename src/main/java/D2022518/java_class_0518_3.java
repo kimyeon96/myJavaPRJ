@@ -8,10 +8,10 @@ public class java_class_0518_3 {
 
         String str;
 
-        System.out.printf("문자열 입력 ==>");
+        System.out.print("문자열 입력 ==>");
         str = s.nextLine();
 
-        System.out.printf("출력 문자열 ==>");
+        System.out.print("출력 문자열 ==>");
 
         if (!str.startsWith(")")) {
             System.out.printf(")");

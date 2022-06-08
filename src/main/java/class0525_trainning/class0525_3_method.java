@@ -16,10 +16,10 @@ public class class0525_3_method {
 
         int sum = 0;
 
-        for (int i = i1; i < i2; i++) {
-            sum += 1;
+        for (int i = i1; i <= i2; i++) {
+            sum += i;
 
         }
-        return sum;
-    }
+            return sum;
+        }
 }
