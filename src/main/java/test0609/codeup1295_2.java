@@ -6,8 +6,6 @@ public class codeup1295_2 {
     public static void main(String[] args) {
 
         String input = "";
-        String output = "";
-        int tmp;
 
         Scanner s = new Scanner(System.in);
 
