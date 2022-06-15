@@ -22,4 +22,3 @@ public class Car1 {
         this.price = price;
     }
 }
-
